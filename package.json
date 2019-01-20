@@ -1,0 +1,18 @@
+{
+  "name": "zx_randchar",
+  "version": "1.0.0",
+  "description": "produce a rand char",
+  "main": "randchar.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "zx",
+    "randchar",
+    "getrandchar",
+    "zx_randchar",
+    "zx_getrandchar"
+  ],
+  "author": "zx",
+  "license": "MIT"
+}
